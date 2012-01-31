@@ -1,0 +1,4 @@
+This is a solution to the prime factors kata.  I tried to get it in as
+few lines of Ruby as possible.  Recursion seems to provide the most
+elegant solution.
+
